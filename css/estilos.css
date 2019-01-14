@@ -1,0 +1,18 @@
+.navbar{
+    font-size: 20px;
+    border-bottom: 2px solid black;
+}
+.skere{
+    text-align: center;
+
+}
+.card{
+    border: 2px solid black;
+
+}
+.card img{
+    border-bottom: 2px solid black;
+}
+.card-title{
+    text-align: center;
+}
