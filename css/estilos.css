@@ -1,6 +1,7 @@
 .navbar{
     font-size: 20px;
     border-bottom: 2px solid black;
+    
 }
 .skere{
     text-align: center;
@@ -15,4 +16,15 @@
 }
 .card-title{
     text-align: center;
+}
+.mateo{
+    text-align: center;
+
+} 
+body{
+    background:burlywood
+
+}
+.card-text{
+    background:burlywood
 }
